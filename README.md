@@ -1,2 +1,2 @@
 # compoundSimulator
-Compound Interest Simulator 
+Compound Interest Simulator that calulates compound instest over a period of time given different factors and variables.
